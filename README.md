@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋 I'm Joyce
 
-<!--
-**njerii-dev/njerii-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a junior software engineer passionate about building modern web applications and improving my development skills through real-world projects.
 
-Here are some ideas to get you started:
+## Technologies I Use
+- JavaScript
+- React
+- Node.js
+- MongoDB
+- Tailwind CSS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+
+### CivNet
+A civic engagement platform for communities.
+Live Demo:
+https://civnet-rose.vercel.app/
+
+### RiftShop
+An e-commerce platform with modern UI and responsive design.
+Live Demo:
+https://riftshop.vercel.app/
+
+### CakedWithUs
+An online cake ordering platform.
+Live Demo:
+https://cakedwithus.joyne.co.ke/
+
+## Currently Learning
+- TypeScript
+- APIs
+- Full-stack development
+- AI integrations
+
+## Contact Me
+- Email: your-email@example.com
+- LinkedIn: your-linkedin-link
