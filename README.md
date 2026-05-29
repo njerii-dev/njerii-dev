@@ -35,5 +35,5 @@ https://cakedwithus.joyne.co.ke/
 - AI integrations
 
 ## Contact Me
-- Email: your-email@example.com
-- LinkedIn: your-linkedin-link
+- Email: njeriijoy216@gmail.com
+  
