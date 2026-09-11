@@ -1,39 +1,114 @@
-# Hi 👋 I'm Joyce
+# Hi 👋 I'm Joyce Njeri
 
-## About Me
-I'm a junior software engineer passionate about building modern web applications and improving my development skills through real-world projects.
+### Junior Software Engineer | Full-Stack Web Developer
 
-## Technologies I Use
+I'm a junior software engineer passionate about building modern web applications, solving real-world problems, and continuously improving my development skills through hands-on projects.
+
+I enjoy turning ideas into working applications — from designing responsive interfaces to connecting applications with backend services and deploying them for real users.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Frontend
 - JavaScript
 - React
-- Node.js
-- MongoDB
+- Next.js
+- HTML5
+- CSS3
 - Tailwind CSS
-- Git & GitHub
 
-## My Projects
+### Backend & Data
+- Node.js
+- REST APIs
+- API Integration
+- MongoDB
 
-### CivNet
-A civic engagement platform for communities.
-Live Demo:
-https://civnet-rose.vercel.app/
+### Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- Vercel
+- Render
 
-### RiftShop
-An e-commerce platform with modern UI and responsive design.
-Live Demo:
-https://riftshop.vercel.app/
+---
 
-### CakedWithUs
-An online cake ordering platform.
-Live Demo:
-https://cakedwithus.joyne.co.ke/
+## 🚀 Featured Projects
 
-## Currently Learning
+### 🛒 RiftShop
+
+An e-commerce web application where customers can browse products, place orders, and make payments.
+
+**Highlights**
+- Customer ordering workflow
+- Payment functionality including M-Pesa
+- Backend communication and customer order history
+- Responsive user interface
+- Deployed application
+
+🔗 **Live Demo:** https://riftshop.vercel.app/
+
+---
+
+### 🤝 CivNet
+
+A community engagement platform designed to improve communication and interaction within communities.
+
+**Highlights**
+- Responsive user interface
+- Reusable React components
+- Community-focused functionality
+- Modern UI built with Tailwind CSS
+- Deployed with Vercel
+
+🔗 **Live Demo:** https://civnet-rose.vercel.app/
+
+---
+
+### 🧁 Caked With Us
+
+An online bakery and cake ordering platform designed to make browsing and ordering bakery products easier for customers.
+
+**Highlights**
+- Online cake ordering experience
+- Responsive design
+- User-friendly navigation
+- Mobile-friendly interface
+
+🔗 **Live Demo:** https://cakedwithus.joyne.co.ke/
+
+---
+
+## 📚 Currently Learning
+
 - TypeScript
-- APIs
-- Full-stack development
+- REST APIs & backend development
+- Full-stack application development
 - AI integrations
+- Software testing & quality assurance
 
-## Contact Me
-- Email: njeriijoy216@gmail.com
-  
+---
+
+## 🎯 What I'm Interested In
+
+I'm interested in opportunities where I can:
+
+- Build and maintain real-world software
+- Learn from experienced developers
+- Improve my backend and full-stack skills
+- Develop strong software testing and debugging practices
+- Contribute to meaningful products and solutions
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** njeriijoy216@gmail.com
+
+💻 **GitHub:** https://github.com/njerii-dev
+
+🌐 **Portfolio:** https://portfolio-tawny-one-29.vercel.app/
+
+---
+
+### 💡 Always learning. Always building.
