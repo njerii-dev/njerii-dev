@@ -10,7 +10,7 @@ I'm continuously strengthening my software engineering foundations and looking f
 
 📍 Nakuru, Kenya  
 🌐 **Portfolio:** [View my portfolio](https://portfolio-tawny-one-29.vercel.app/)  
-💼 **LinkedIn:** [Add your LinkedIn URL](https://www.linkedin.com/in/joyce-njeri-119528415/) 
+💼 **LinkedIn:** (https://www.linkedin.com/in/joyce-njeri-119528415/) 
 📧 **Email:** njeriijoy216@gmail.com
 
 ---
