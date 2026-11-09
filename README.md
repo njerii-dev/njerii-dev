@@ -9,8 +9,8 @@ I enjoy taking ideas from concept to implementation — developing responsive in
 I'm continuously strengthening my software engineering foundations and looking forward to collaborating with experienced developers, contributing to real-world projects and growing as an engineer.
 
 📍 Nakuru, Kenya  
-🌐 **Portfolio:** (https://portfolio-tawny-one-29.vercel.app/)  
-💼 **LinkedIn:** (https://www.linkedin.com/in/joyce-njeri-119528415/) 
+🌐 **Portfolio:** [View my portfolio](https://portfolio-tawny-one-29.vercel.app/)  
+💼 **LinkedIn:** [Add your LinkedIn URL](https://www.linkedin.com/in/joyce-njeri-119528415/) 
 📧 **Email:** njeriijoy216@gmail.com
 
 ---
